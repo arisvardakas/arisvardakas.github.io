@@ -2,34 +2,23 @@
 
 ---
 
-### Category Name 1 
+### My projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Veirbel](https://github.com/arisvardakas/Veirbel)
+<br><br>
+<img src="https://raw.githubusercontent.com/arisvardakas/arisvardakas.github.io/master/images/veirbel.png?raw=true" style="height: 200px; display: block;" />
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Circuilizer](https://github.com/arisvardakas/Circuilizer)
+<br><br>
+<img src="https://raw.githubusercontent.com/arisvardakas/arisvardakas.github.io/master/images/circuilizer.png?raw=true" style="height: 200px; display: block;" />
 
 ---
 
-### Category Name 2
+### Contributed projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+- [Holiday Emotions Marketplace](https://www.holidayemotions.com/)
+- [Corporate Holiday Emotions](https://corporate.holidayemotions.com/)
+- [Nanos LTD E-commerce](https://eshop.nanos-ltd.gr/)
+- B2B Holiday Emotions (CMS platform)
+- Corporate E-commerce (CMS platform)
