@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Software Engineer
   <br><br>
   <a href="https://www.linkedin.com/in/aristeidis-vardakas" style="display: inline-block;>
-    <img src="/images/linkedin.png" style="height: 40px; />
+    <img src="/images/linkedin.png" style="height: 40px;" />
   </a>
   <a href="https://github.com/arisvardakas" style="display: inline-block; padding-left: 10px;">
     <img src="/images/github.png" style="height: 40px;" />
