@@ -11,7 +11,7 @@
 ---
 [Veirbel](https://github.com/arisvardakas/Veirbel)
 <br><br>
-<img src="https://raw.githubusercontent.com/arisvardakas/Veirbel/master/veirbel_dark_en_.png?raw=true" style="display: block;" />
+<img src="https://raw.githubusercontent.com/arisvardakas/Veirbel/master/veirbel_light_en_.png?raw=true" style="display: block;" />
 
 ---
 
