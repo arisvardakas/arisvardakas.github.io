@@ -4,14 +4,14 @@
 
 ### My projects
 
-[Digital Circuit Visualizer](https://github.com/arisvardakas/Digital-Circuit-Visualizer)
+[Digital Circuit Visualizer](https://github.com/arisvardakas/DigitalCircuitVisualizer)
 <br><br>
-<img src="https://raw.githubusercontent.com/arisvardakas/Digital-Circuit-Visualizer/main/digital-circuit-visualizer.png?raw=true" style="display: block;" />
+<img src="https://raw.githubusercontent.com/arisvardakas/DigitalCircuitVisualizer/master/digital_circuit_visualizer.png?raw=true" style="display: block;" />
 
 ---
 [Veirbel](https://github.com/arisvardakas/Veirbel)
 <br><br>
-<img src="https://raw.githubusercontent.com/arisvardakas/Veirbel/master/veirbel_light_en_.png?raw=true" style="display: block;" />
+<img src="https://raw.githubusercontent.com/arisvardakas/Veirbel/master/veirbel_light.png?raw=true" style="display: block;" />
 
 ---
 
