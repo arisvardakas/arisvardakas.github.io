@@ -2,7 +2,7 @@
 
 ---
 
-### Own projects
+### Projects
 
 [Digital Circuit Visualizer](https://github.com/arisvardakas/DigitalCircuitVisualizer)
 <br />
@@ -18,7 +18,7 @@
 
 ---
 
-### Contributed projects
+### Contributed Projects
 
 - [Holiday Emotions Marketplace](https://www.holidayemotions.com/)
 - [Corporate Holiday Emotions](https://corporate.holidayemotions.com/)
