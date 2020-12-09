@@ -2,7 +2,7 @@
 
 ---
 
-### My projects
+### Own projects
 
 [Digital Circuit Visualizer](https://github.com/arisvardakas/DigitalCircuitVisualizer)
 <br><br>
