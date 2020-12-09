@@ -1,7 +1,7 @@
 title: Aristeidis Vardakas # your name (or website title) here
 logo: "/images/me.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Software Engineer
+  <span style="font-size: 18px;">Software Engineer</span>
   <br /><br />
   Motivated software engineer, with experience in developing, debugging and optimizing custom .NET web applications. Team player with an eye for detail. Comfortable working with both front-end and back-end tools and technologies.
   <br /><br />
